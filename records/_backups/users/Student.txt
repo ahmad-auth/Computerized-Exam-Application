@@ -1,0 +1,7 @@
+1100#pass#ahmad#32102-65701#Computer Science#2
+1100001#passali#ali#32102-11224#Computer Science#0
+1100012#passahmad#ahmad#10102-98324#Humanities#0
+1100063#passatif#atif#56221-10204#Electrical#0
+1100104#passakram#akram#92303-32104#Computer Science#0
+1100105#passanees#anees#22100-36003#Mathematics#0
+1100333#passname#noname#10101-2020#Electrical#0

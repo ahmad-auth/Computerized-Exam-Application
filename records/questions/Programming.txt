@@ -1,0 +1,11 @@
+1#Programming#Answer is c#a#b#c#d#c
+2#Programming#Answer is a#a#b#c#d#a
+3#Programming#Answer is a#a#b#c#d#a
+4#Programming#Answer is b#a#b#c#d#b
+5#Programming#Answer is c#a#b#c#d#c
+6#Programming#Answer is a#a#b#c#d#a
+7#Programming#Answer is d#a#b#c#d#d
+8#Programming#Answer is b#a#b#c#d#b
+9#Programming#Answer is a#a#b#c#d#a
+10#Programming#Answer is c#a#b#c#d#c
+11#Programming#What is '2' ?#A string.#An integer.#A character.#A character.#c
